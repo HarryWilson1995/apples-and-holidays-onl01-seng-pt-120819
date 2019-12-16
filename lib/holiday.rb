@@ -97,8 +97,6 @@ holiday_hash.map do |season, holiday|
  end 
 end
 
-all_holidays_with_bbq(holiday_hash)
-
 
 
 
